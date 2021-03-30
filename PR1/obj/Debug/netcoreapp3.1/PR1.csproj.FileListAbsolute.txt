@@ -1,0 +1,13 @@
+C:\Users\ILYA\source\repos\PR1\PR1\bin\Debug\netcoreapp3.1\PR1.exe
+C:\Users\ILYA\source\repos\PR1\PR1\bin\Debug\netcoreapp3.1\PR1.deps.json
+C:\Users\ILYA\source\repos\PR1\PR1\bin\Debug\netcoreapp3.1\PR1.runtimeconfig.json
+C:\Users\ILYA\source\repos\PR1\PR1\bin\Debug\netcoreapp3.1\PR1.runtimeconfig.dev.json
+C:\Users\ILYA\source\repos\PR1\PR1\bin\Debug\netcoreapp3.1\PR1.dll
+C:\Users\ILYA\source\repos\PR1\PR1\bin\Debug\netcoreapp3.1\PR1.pdb
+C:\Users\ILYA\source\repos\PR1\PR1\obj\Debug\netcoreapp3.1\PR1.csprojAssemblyReference.cache
+C:\Users\ILYA\source\repos\PR1\PR1\obj\Debug\netcoreapp3.1\PR1.AssemblyInfoInputs.cache
+C:\Users\ILYA\source\repos\PR1\PR1\obj\Debug\netcoreapp3.1\PR1.AssemblyInfo.cs
+C:\Users\ILYA\source\repos\PR1\PR1\obj\Debug\netcoreapp3.1\PR1.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\source\repos\PR1\PR1\obj\Debug\netcoreapp3.1\PR1.dll
+C:\Users\ILYA\source\repos\PR1\PR1\obj\Debug\netcoreapp3.1\PR1.pdb
+C:\Users\ILYA\source\repos\PR1\PR1\obj\Debug\netcoreapp3.1\PR1.genruntimeconfig.cache
